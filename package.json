@@ -1,0 +1,16 @@
+{
+  "name": "DCR",
+  "version": "0.0.1",
+  "description": "Crunchyroll Desktop without Bloat.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder -mwl"
+  },
+  "author": "Iqbal Rifai",
+  "license": "WTFAL",
+  "devDependencies": {
+    "electron": "9.2.0",
+    "electron-builder": "^22.8.0"
+  }
+}
